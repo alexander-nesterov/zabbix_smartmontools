@@ -14,5 +14,5 @@ for check:
 
 ```shell
 #perl smartctl-physical-disks-discovery.pl
-#perl perl smartctl-physical-disks-data.pl --d /dev/sda --k Temperature_Celsius
+#perl smartctl-physical-disks-data.pl --d /dev/sda --k Temperature_Celsius
 ```
