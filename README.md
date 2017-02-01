@@ -11,5 +11,8 @@ and change the keys in the configuration file:
 - Include=/etc/zabbix/zabbix_agentd.d/*.conf
 
 for check:
-- perl smartctl-physical-disks-discovery.pl
-- perl perl smartctl-physical-disks-data.pl --d /dev/sda --k Temperature_Celsius
+
+```shell
+- #perl smartctl-physical-disks-discovery.pl
+- #perl perl smartctl-physical-disks-data.pl --d /dev/sda --k Temperature_Celsius
+```
