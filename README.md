@@ -7,7 +7,6 @@ you need to install:
 and change the keys in the configuration file:
 
 - EnableRemoteCommands=1
-- AllowRoot=1
 - Include=/etc/zabbix/zabbix_agentd.d/*.conf
 
 for check:
